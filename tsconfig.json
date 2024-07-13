@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    // 其他选项...
+    "jsx": "react-jsx" // 或者 "react-jsx" 或 "preserve" | "react"
+  }
+}
